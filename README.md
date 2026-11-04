@@ -49,11 +49,9 @@ git clone https://github.com/volodtarasov-cyber/humanize-text.git .claude/skills
 
 Скилл помогает редактировать текст. Он не проверяет достоверность исходных фактов и не гарантирует результат в детекторах ИИ.
 
-## Автор и источники
+## Автор
 
 Публичную версию подготовил [Владимир Тарасов](https://t.me/lazyhim). Здесь собраны адаптация правил редактуры под русский язык, защита фактов и проход корректора.
-
-Основа — открытые материалы [humanizer-ru](https://github.com/smixs/humanizer-ru), [humanizer](https://github.com/blader/humanizer) и наблюдения [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). Корректор адаптирован из [russian-copywriter-skill](https://github.com/kachkanfim369-svg/russian-copywriter-skill). Авторские уведомления сохранены в [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 Лицензия: [MIT](LICENSE). Можно использовать и дорабатывать, в том числе в коммерческих проектах, с сохранением уведомлений авторов.
 
